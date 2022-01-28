@@ -40,6 +40,8 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/WhatsAsena)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fdebojit16mitra%2FWhatsAsena)
+
 ### The Hard Method
 ```js
 git clone https://github.com/Quiec/WhatsAsena.git
